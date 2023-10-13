@@ -1,0 +1,100 @@
+[
+  {
+    "prezzo": 1600.00,
+    "valuta": "euro",
+    "transazione": "entrata",
+    "tipologia": "stipendio",
+    "data": "2023-08-30"
+  },
+  {
+    "prezzo": 25.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "spese condominiali",
+    "data": "2023-09-02"
+  },
+  {
+    "prezzo": 150.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "gelati",
+    "data": "2023-09-05"
+  },
+  {
+    "prezzo": 50.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "gelati",
+    "data": "2023-09-10"
+  },
+  {
+    "prezzo": 60.00,
+    "valuta": "euro",
+    "transazione": "entrata",
+    "tipologia": "bonus",
+    "data": "2023-09-15"
+  },
+  {
+    "prezzo": 30.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "alimentari",
+    "data": "2023-09-20"
+  },
+  {
+    "prezzo": 35.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "shopping",
+    "data": "2023-09-25"
+  },
+  {
+    "prezzo": 15.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "benzina",
+    "data": "2023-09-28"
+  },
+  {
+    "prezzo": 70.00,
+    "valuta": "euro",
+    "transazione": "entrata",
+    "tipologia": "regalo",
+    "data": "2023-10-02"
+  },
+  {
+    "prezzo": 25.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "spese condominiali",
+    "data": "2023-10-05"
+  },
+  {
+    "prezzo": 45.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "shopping",
+    "data": "2023-10-08"
+  },
+  {
+    "prezzo": 55.00,
+    "valuta": "euro",
+    "transazione": "entrata",
+    "tipologia": "bonus",
+    "data": "2023-10-12"
+  },
+  {
+    "prezzo": 22.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "alimentari",
+    "data": "2023-10-15"
+  },
+  {
+    "prezzo": 30.00,
+    "valuta": "euro",
+    "transazione": "uscita",
+    "tipologia": "benzina",
+    "data": "2023-10-18"
+  }
+]
